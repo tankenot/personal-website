@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Gothenburg", region = "CA", postcode = "41656", country = "Sweden", country_code = "SE"}
+address = {city = "Gothenburg", country = "Sweden", country_code = "SE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -190,15 +190,15 @@ plugins_js  = []
   citation_style = "apa"
 
 # Configuration of project pages.
-#[projects]
+[projects]
   # Views for associated content.
   #   1: List
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  #post_view = 2
-  #publication_view = 2
-  #talk_view = 2
+  post_view = 2
+  publication_view = 2
+  talk_view = 2
 
 ############################
 ## Comments
