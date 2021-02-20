@@ -1,15 +1,14 @@
 ---
-title: Publications
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
+title: "Driver conflict response during supervised automation: Do hands on wheel
+  matter?"
 view: 4
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+publication_types:
+  - "2"
+authors:
+  - LindaPipkornTrentVictorMarcoDozzaEmmaTivesten
+doi: https://doi.org/10.1016/j.trf.2020.10.001
+date: 2021-02-20T17:45:32.393Z
 ---
