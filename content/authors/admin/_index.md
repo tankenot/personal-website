@@ -68,4 +68,4 @@ highlight_name: false
 
 Linda Pipkorn is a PhD student with a focus on human factors of automated driving. Her aim is to understand human performance limits when driving with semi-automated vehicles. Linda uses data collected in Wizard-of-oz experiments to analyze drivers' response process in critical and uncritical scenarios. She is passionate about combining data analytics, statistics, and cognitive psychology to understand human performance. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< #/staticref >}}.
