@@ -1,47 +1,37 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-slides: example
+abstract: ""
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - Robert Ford
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+  - Linda Pipkorn
+  - Trent Victor
+  - Marco Dozza
+  - Emma Tivesten
+summary: ""
 url_dataset: ""
 url_project: ""
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication_short: In *ICW*
+author_notes: []
+publication_short: In *TRF*
 url_source: ""
 url_video: ""
-publication: In *Wowchemy Conference*
+publication: "In *Transportation Research Part F: Traffic Psychology & Behaviour*"
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: "Driver conflict response during supervised automation: Do hands on wheel
   matter?"
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: ""
+doi: https://doi.org/10.1016/j.trf.2020.10.001
 ---
 
 {{% callout note %}}
