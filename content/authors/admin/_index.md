@@ -24,7 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - course: Licentiate of Engineering Human factors of Automated Driving 
+  - course: Licentiate of Engineering Human factors of Automated Driving 
     institution: Chalmers University of Technology
     year: 2020
   - course: Master of Science in Applied Mechanics
