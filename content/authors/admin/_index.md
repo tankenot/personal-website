@@ -24,10 +24,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Msc in Applied Mechanics
-    institution: Chalmers University of Technology/Waterloo University 
+   - course: Licentiate of Engineering Human factors of Automated Driving 
+    institution: Chalmers University of Technology
+    year: 2020
+  - course: Master of Science in Applied Mechanics
+    institution: Chalmers University of Technology (exchange year at Waterloo University, Canada) 
     year: 2018
-  - course: BSc in Mechanical Engineering 
+  - course: Bachelor of Science in Mechanical Engineering 
     institution: Chalmers University of Technology 
     year: 2014
 
