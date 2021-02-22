@@ -49,7 +49,7 @@ url_source: ""
 url_video: ""
 publication: "In *Transportation Research Part F: Traffic Psychology & Behaviour*"
 featured: false
-date: 2013-07-01T00:00:00.000Z
+date: 2021-07-01T00:00:00.000Z
 url_slides: ""
 title: "Driver conflict response during supervised automation: Do hands on wheel
   matter?"
