@@ -2,8 +2,14 @@
 title: "How Is Life as a PhD Student? "
 subtitle: ""
 date: 2021-08-12T15:38:02.876Z
+summary: ""
 draft: false
 featured: false
+authors: []
+tags:
+  - PhD student life
+categories:
+  - PhD student life
 image:
   filename: featured
   focal_point: Smart
