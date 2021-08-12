@@ -5,9 +5,9 @@ date: 2021-07-12T10:41:04.879Z
 draft: false
 featured: false
 tags:
-  - Vehicle_automation
+  - Vehicle automation
 categories:
-  - Vehicle_automation
+  - Vehicle automation
 image:
   filename: ""
   focal_point: Smart
