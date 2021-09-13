@@ -1,12 +1,13 @@
 ---
 title: "Honda student award "
 date: 2021-09-13T09:53:03.609Z
+summary: "![](interview_linda.png)"
 draft: false
 featured: false
 categories:
   - PhD student life
 image:
-  filename: interview_linda.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
