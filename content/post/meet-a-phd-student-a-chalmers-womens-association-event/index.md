@@ -1,6 +1,6 @@
 ---
 title: "Meet a PhD Student: a Chalmers Women's Association event "
-subtitle: "Answering questions about PhD student life "
+subtitle: "Questions and answers about PhD student life "
 date: 2022-02-22T15:50:14.300Z
 draft: false
 featured: false
