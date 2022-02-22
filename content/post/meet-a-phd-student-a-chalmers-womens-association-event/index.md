@@ -25,36 +25,24 @@ image:
 **Differences from studying as a PhD-student and Bachelor or master student?**\
 You spend a lot more time on each project. A lot of my studies have spanned over  2-3 years: from experiments to a published paper. It is also more like a job than studying. You work on your project and you learn what you need for it. It is quite different from a course where you have to learn everything on a topic to be able to pass an exam.
 
-**What does everyday life look like as a PhD-student?**\
-This can be very different: some periods it is all about planning and conducting experiments, some periods it is all about processing and analyzing data, and some periods it is all about writing. Some periods can also be all about taking courses or teaching. I have relatively few meetings (minimum 1, maximum 4-5).
+**What does everyday life look like as a PhD-student?** This can be very different: some periods it is all about planning and conducting experiments, some periods it is all about processing and analyzing data, and some periods it is all about writing. Some periods can also be all about taking courses or teaching. I have relatively few meetings (minimum 1, maximum 4-5).
 
-**Why and how did you become a PhD-student?** \
-I always had a positive picture of working with research: they seemed very satisfied with their work and enjoyed working. Discussing “work” at lunch was nothing that was banned, but it was just normal and I think that suited me. It’s OK to be “nerdy” in a way. Then, don’t take me wrong, I also like to chitchat about other things over lunch (like the Winter olymics for example). 
+**Why and how did you become a PhD-student?** I always had a positive picture of working with research: they seemed very satisfied with their work and enjoyed working. Discussing “work” at lunch was nothing that was banned, but it was just normal and I think that suited me. It’s OK to be “nerdy” in a way. Then, don’t take me wrong, I also like to chitchat about other things over lunch (like the Winter olymics for example). 
 
 Then, despite having a positive view on research and academia it wasn’t obvious to me that I would do a PhD. During the end of my studies at Chalmers I knew that I wanted to work with data analysis and psychology. I happened to get an internship in the group where I’m working now, during my masters. At that time I [analyzed driver behavior and crash causation](https://pubmed.ncbi.nlm.nih.gov/32199571/): and I found something that I really enjoyed working on. Then they happened to have a PhD ad out when it was time for me to apply for jobs. Rest is history.
 
-**Do you have any personal goals or career goals with your studies? Follow up: Has it changed since you started?** \
-My personal goals were always to develop my skills in psychology and data analysis. In terms of career I’d like to work with things that I think are meaningful and that give me some degree of freedom and variability, as that is when I can contribute the best.  
+**Do you have any personal goals or career goals with your studies? Follow up: Has it changed since you started?** My personal goals were always to develop my skills in psychology and data analysis. In terms of career I’d like to work with things that I think are meaningful and that give me some degree of freedom and variability, as that is when I can contribute the best.  
 
 One thing that I realized during the studies was that research methodology is super interesting. What is good research? How do you do good research?  I think my career-goals are similar. Would love to work abroad for some time though. 
 
-**Do you have a role model within your subject?** 
+**Do you have a role model within your subject?** I think my role model is a combination of different people around me. Everyone around me and in my field have something inspiring and something to learn from. 
 
-I think my role model is a combination of different people around me. Everyone around me and in my field have something inspiring and something to learn from. 
+**Tips and tricks for becoming a PhD-student?** Contacts. If you already know a field you’re interested in I’d apply for a master’s thesis in the group, or take courses given from that group, apply to work as a research assistant. I also think it can be wise to check where in the world the best research is conducted: if you know exactly what you want to do. Then I think two things are super important; does your supervisors feel responsible for you to graduate? Is there data for you to do so?
 
-**Tips and tricks for becoming a PhD-student?** 
+**Do you ever feel stressed or pressed in your line of work?** Yes. During my years I have taken on so many different roles: as a teacher, as a student taking math classes, as a presenter for industry and academia, as a writer etc. Of course I did not feel comfortable every day. However, I also think feeling uncomfortable (within boundaries) is what makes you grow. It is not obvious where the boundary goes from being stressed/pressed to where it is unbearable. I think this is very individual. 
 
-Contacts. If you already know a field you’re interested in I’d apply for a master’s thesis in the group, or take courses given from that group, apply to work as a research assistant. I also think it can be wise to check where in the world the best research is conducted: if you know exactly what you want to do. Then I think two things are super important; does your supervisors feel responsible for you to graduate? Is there data for you to do so?
+**How do you handle this?** I have been strict with exercising for example. I always played my tennis, and I loved it. I believe that having something else that matters on the side of your work is key. Exercise is good for you both mentally and physically, but it doesn’t need to be that. You need something that can give you joy and confidence when work gets tough.
 
-**Do you ever feel stressed or pressed in your line of work?** 
+**Do you feel like you are being treated differently for being a woman?** I think this question is difficult since I don’t have a baseline (i.e., I don’t know how I would be treated as a man). I’ve been treated well during my studies.
 
-Yes. During my years I have taken on so many different roles: as a teacher, as a student taking math classes, as a presenter for industry and academia, as a writer etc. Of course I did not feel comfortable every day. However, I also think feeling uncomfortable (within boundaries) is what makes you grow. It is not obvious where the boundary goes from being stressed/pressed to where it is unbearable. I think this is very individual. 
-
-**How do you handle this?** \
-I have been strict with exercising for example. I always played my tennis, and I loved it. I believe that having something else that matters on the side of your work is key. Exercise is good for you both mentally and physically, but it doesn’t need to be that. You need something that can give you joy and confidence when work gets tough.
-
-**Do you feel like you are being treated differently for being a woman?**\
-I think this question is difficult since I don’t have a baseline (i.e., I don’t know how I would be treated as a man). I’ve been treated well during my studies.
-
-**Do you see any advantages in being a woman in the PhD-environment?**\
-No.
+**Do you see any advantages in being a woman in the PhD-environment?** No.
