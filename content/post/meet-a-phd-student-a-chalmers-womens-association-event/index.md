@@ -4,6 +4,9 @@ subtitle: "Answering questions about PhD student life "
 date: 2022-02-22T15:50:14.300Z
 draft: false
 featured: false
+tags: []
+categories:
+  - PhD student life
 image:
   filename: featured
   focal_point: Smart
