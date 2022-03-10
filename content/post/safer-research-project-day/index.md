@@ -4,8 +4,9 @@ subtitle: "Presenting the main results from the L3Pilot project "
 date: 2022-03-10T08:35:36.810Z
 draft: false
 featured: false
-tags:
-  - Talks
+tags: []
+categories:
+  - Events
 image:
   filename: featured
   focal_point: Smart
