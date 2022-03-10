@@ -4,7 +4,10 @@ subtitle: Our work on driver visual attention before and after take-over
   requests in automated driving was awarded at the 2021 Driving Assessment
   Conference
 date: 2021-09-13T09:53:03.609Z
-summary: "![]()"
+summary: >-
+  
+
+  ![Our work (sponsored by the [L3Pilot project](https://l3pilot.eu/)) was awarded with the [2021 Honda Outstanding Student Paper Award](https://drivingassessment.uiowa.edu/past-conferences/driving-assessment-2021/2021-honda-outstanding-student-paper-award-winners) at the 2021 Driving Assessment Conference.   <!--EndFragment-->]()
 draft: false
 featured: false
 categories:
