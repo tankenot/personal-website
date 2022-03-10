@@ -1,7 +1,7 @@
 ---
 title: "SAFER Research & Project Day "
 subtitle: "Presenting the main results from the L3Pilot project "
-date: 2022-03-10T08:35:36.810Z
+date: 2022-03-10T09:58:38.509Z
 draft: false
 featured: false
 tags: []
