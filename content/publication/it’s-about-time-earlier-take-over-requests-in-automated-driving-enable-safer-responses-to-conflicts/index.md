@@ -2,12 +2,56 @@
 title: It’s about time! Earlier take-over requests in automated driving enable
   safer responses to conflicts
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Linda Pipkorn
-  - Marco Dozza
-  - Emma Tivesten
+  - Marco Dozza & Emma Tivesten
 doi: https://doi.org/10.1016/j.trf.2022.02.014
+publication: "Transportation Research Part F: Traffic Psychology and Behaviour"
+publication_short: TRF
+abstract: "Automated driving (AD), which takes full responsibility for the
+  driving task in certain conditions, is currently being developed. An important
+  concern in AD is how to design a take-over request (TOR) that mitigates
+  automation effects (e.g., delayed responses to conflict scenarios) that
+  previous literature from simulator experiments has shown can occur. To address
+  this concern, this study aims to investigate and compare driver responses to
+  TORs and a lead-vehicle cut-out scenario under three conditions: (1) after a
+  period of AD with a TOR issued early (18 s time-to-collision), (2) same as (1)
+  except with a TOR issued late (9 s time-to-collision), and (3) baseline, with
+  adaptive cruise control (ACC). This paper also compares the results to those
+  of a previous study using the same conflict scenario but with near-perfect
+  assisted driving system (SAE Level 2). The lead-vehicle cut-out scenario was
+  encountered on a test track after 30 minutes driving with either ACC or AD. In
+  AD the TOR was issued prior to the conflict object was revealed to the
+  participants when the lead vehicle performed the cut-out (at conflict onset).
+  This TOR strategy differed from previous driving-simulator studies that issued
+  the TOR at conflict onset. The participants had to respond by steering and/or
+  braking to avoid a crash. Our findings show that, independent of TOR timing,
+  the drivers required similar amounts of time to 1) direct their first glance
+  to the human–machine interface, 2) look forward, 3) end their secondary task,
+  4) put their hands on the steering wheel, and 5) deactivate automation.
+  However, when the TOR was issued early rather than late, they started to brake
+  earlier (even before conflict onset). All participants successfully managed to
+  avoid crashing with the object, independent of the condition. AD with an early
+  TOR resulted in the earliest response, while ACC drivers responded slightly
+  earlier than the drivers in AD with the late TOR. Our findings do not support
+  the findings of severe automation effects in previous driving-simulator
+  studies. One reason for the difference is that when a TOR is issued prior to
+  conflict onset, drivers are given the time needed for their preparatory
+  actions (e.g., placing hands on the wheel, deactivating AD) that is not needed
+  when driving with ACC or in manual driving (baseline), before having to
+  respond to the conflict scenario. Thus, at conflict onset the drivers in AD
+  are as ready to act (hands on wheel, eyes forward) as the drivers in the
+  baseline and can perform an avoidance manoeuvre similar as to the baseline
+  drive. Overall, the present study shows that AD does not need to end up in a
+  highly critical situation if the TOR is issued early enough. In fact, AD with
+  an early TOR may be safer than driving with ACC, because in the former drivers
+  are more likely to brake earlier in preparation for the conflict. Finally, a
+  TOR clearly communicates the need for drivers to resume manual control and
+  handle potential events when AD has been deactivated. In our study, once the
+  drivers had taken control, they clearly understood their responsibilities to
+  respond to the conflict, in contrast to a previous study with a similar,
+  near-perfect assisted driving system."
 draft: false
 featured: false
 image:
