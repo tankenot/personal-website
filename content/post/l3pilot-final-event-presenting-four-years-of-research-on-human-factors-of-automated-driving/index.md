@@ -6,7 +6,8 @@ subtitle: Taking place on Wednesday, October 13 and Thursday, October 14, 2021
 date: 2021-10-08T13:47:09.120Z
 draft: false
 featured: false
-tags:
+tags: []
+categories:
   - Events
 image:
   filename: featured
