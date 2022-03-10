@@ -5,7 +5,8 @@ publication_types:
   - "0"
 authors:
   - Linda Pipkorn
-  - Marco Dozza & Emma Tivesten
+  - Marco Dozza
+  - Emma Tivesten
 doi: https://doi.org/10.1016/j.trf.2022.02.014
 draft: false
 featured: false
